@@ -8,4 +8,10 @@ Hello
 Hello2
 =======
 Hello jessica
+<<<<<<< HEAD
+Hello Huy
+=======
 >>>>>>> abfe8d9d0f5bee8b383aa703599059b20ce8a059
+>>>>>>> e5d458fb128180b6007428b1461a3b01f3b4f2ec
+
+Hello every one
